@@ -8,6 +8,20 @@
 
 _A company has come to us to ask us to build a website promoting their remodeled building. They want the website to reflect their company values. The company want the website to feel luxurious but while being open to everyone. They want to promote the website to all companies not just technology companies._
 
+## User Personas
+
+#### Jeff
+  * _"I need a small, but somehwat luxurious building for my growing company"_
+  * _Needs: A well organized office space with a company thats friendly, high speed internet, small kitchen_
+  * _Pain Points: Not many options in my area, Any option that is available is way to expensive_
+  * _How can we server: Making it in-expensive, Making it comfortable_
+
+#### Megyn
+  * _"I'm a no-nonsense kind of person, the moment there is any I'm gone and you will be stuck with someone else"_
+  * _Needs: Large building, capable of holding 30+ people, high speed internet_
+  * _Pain Points: I can find a building to remodel on my own. Tell me why I shouldnt do that_
+  * _How can we serve: Be reliable, good customer service_ 
+
 ##Setup/Installation Requirements
 
 
