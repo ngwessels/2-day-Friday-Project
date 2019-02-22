@@ -20,9 +20,25 @@ _A company has come to us to ask us to build a website promoting their remodeled
   * _"I'm a no-nonsense kind of person, the moment there is any I'm gone and you will be stuck with someone else"_
   * _Needs: Large building, capable of holding 30+ people, high speed internet_
   * _Pain Points: I can find a building to remodel on my own. Tell me why I shouldnt do that_
-  * _How can we serve: Be reliable, good customer service_ 
+  * _How can we serve: Be reliable, good customer service_
 
-##Setup/Installation Requirements
+## Research, Inspire, BrainStorm
+
+_Here is a list of the companies that I researched/looked at:_
+  * _TechSpace_
+  * _WeWork_
+  * _Hera Hub_
+  * _Regus_
+
+_When looking at these website they all have the same goal. Helping customers get nice luxurious working spaces for their company. TechSpace, WeWork, and Regus are all going after the same type of customer/company. They are reaching out to those in every industry no matter the size and offering them something better. And most of them are offering special discounts. But Hera Hub is reaching out to a different customer. They are specifically reaching out to women who are just starting a new business. And offer them education to better know how to grow their business. Decision I have made so far:_
+
+  * _No pop-ups of any kind. Regus has at least 3 and it obstructs the users experience._
+  * _The background color needs to be a cool color. Some shade of white, grey, or light blue._
+  * _The font style should not be in calligraphy, body font needs to be in some font like Times New Roman._
+
+
+
+## Setup/Installation Requirements
 
 
 
