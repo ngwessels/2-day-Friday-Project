@@ -19,7 +19,7 @@ _A company has come to us to ask us to build a website promoting their remodeled
 #### Megyn
   * _"I'm a no-nonsense kind of person, the moment there is any I'm gone and you will be stuck with someone else"_
   * _Needs: Large building, capable of holding 30+ people, high speed internet_
-  * _Pain Points: I can find a building to remodel on my own. Tell me why I shouldnt do that_
+  * _Pain Points: I can find a building to remodel on my own. Tell me why I should not do that_
   * _How can we serve: Be reliable, good customer service_
 
 ## Research, Inspire, BrainStorm
