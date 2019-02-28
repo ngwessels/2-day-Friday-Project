@@ -38,11 +38,17 @@ _When looking at these website they all have the same goal. Helping customers ge
 
   ## Sketch Images
   #### Desktop Sketch
-  ![Desktop Sketch](imgs/desktop.jpg)
+  <p align="center">
+  <img src="imgs/desktop.jpg" alt="" width="667" height="500">
+  </p>
   #### Tablet Sketch
-  ![Tablet Sketch](imgs/tablet.jpg)
+  <p align="center">
+  <img src="imgs/tablet.jpg" alt="" width="667" height="500">
+  </p>
   #### Phone Sketch
-  ![Phone Sketch](imgs/phone.jpg)
+  <p align="center">
+  <img src="imgs/phone.jpg" alt="" width="667" height="500">
+  </p>
 
 ## Wireframe Images
 
