@@ -40,8 +40,19 @@ _When looking at these website they all have the same goal. Helping customers ge
 
 #### Mobile
 <p align="center">
-<img src="imgs/phone.jpg" alt="" width="300" height="400">
+<img src="imgs/phone-wireframe.png" alt="" width="500" height="148">
 </p>
+
+#### Tablet
+<p align="center">
+<img src="imgs/tablet-wireframe.png" alt="" width="500" height="682">
+</p>
+
+#### Desktop
+<p align="center">
+<img src="imgs/desktop-wireframe.png" alt="" width="500" height="430">
+</p>
+
 ![Desktop Sketch](imgs/desktop.jpg)
 ![Tablet Sketch](imgs/tablet.jpg)
 ![Phone Sketch](imgs/phone.jpg)
