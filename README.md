@@ -36,7 +36,15 @@ _When looking at these website they all have the same goal. Helping customers ge
   * _The background color needs to be a cool color. Some shade of white, grey, or light blue._
   * _The font style should not be in calligraphy, body font needs to be in some font like Times New Roman._
 
-## Sketch Images
+  ## Sketch Images
+  #### Desktop Sketch
+  ![Desktop Sketch](imgs/desktop.jpg)
+  #### Tablet Sketch
+  ![Tablet Sketch](imgs/tablet.jpg)
+  #### Phone Sketch
+  ![Phone Sketch](imgs/phone.jpg)
+
+## Wireframe Images
 
 #### Mobile
 <p align="center">
@@ -53,9 +61,6 @@ _When looking at these website they all have the same goal. Helping customers ge
 <img src="imgs/desktop-wireframe.png" alt="" width="500" height="430">
 </p>
 
-![Desktop Sketch](imgs/desktop.jpg)
-![Tablet Sketch](imgs/tablet.jpg)
-![Phone Sketch](imgs/phone.jpg)
 
 ## Setup/Installation Requirements
 
