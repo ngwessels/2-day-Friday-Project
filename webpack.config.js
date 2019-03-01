@@ -1,6 +1,6 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-
+const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
 module.exports = {
 
   entry: './src/index.js',
@@ -53,30 +53,41 @@ module.exports = {
 
   plugins: [
     new HtmlWebpackPlugin({
-      inject: true,
+      inject: 'body',
       template: './src/index.html',
       filename: 'index.html'
     }),
     new HtmlWebpackPlugin({
-      inject: true,
-      template: './src/html/price.html',
-      filename: 'price.html'
+      template: './src/contact.html',
+      filename: 'contact.html'
     }),
     new HtmlWebpackPlugin({
-      inject: true,
-      template: './src/index.html',
-      filename: 'index.html'
+      template: './src/contact.html',
+      filename: 'contact.html'
     }),
     new HtmlWebpackPlugin({
-      inject: true,
-      template: './src/index.html',
-      filename: 'index.html'
+      template: './src/contact.html',
+      filename: 'contact.html'
     }),
     new HtmlWebpackPlugin({
-      inject: true,
-      template: './src/index.html',
-      filename: 'index.html'
+      template: './src/contact.html',
+      filename: 'contact.html'
     }),
+    new HtmlWebpackPlugin({
+      template: './src/contact.html',
+      filename: 'contact.html'
+    }),
+    new HtmlWebpackPlugin({
+      template: './src/contact.html',
+      filename: 'contact.html'
+    }),
+    new HtmlWebpackPlugin({
+      template: './src/contact.html',
+      filename: 'contact.html'
+    }),
+
+    new UglifyJsPlugin(),
+
   ]
 
 };
