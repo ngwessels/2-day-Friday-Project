@@ -53,10 +53,30 @@ module.exports = {
 
   plugins: [
     new HtmlWebpackPlugin({
-      inject: 'body',
+      inject: true,
       template: './src/index.html',
       filename: 'index.html'
-    })
+    }),
+    new HtmlWebpackPlugin({
+      inject: true,
+      template: './src/html/price.html',
+      filename: 'price.html'
+    }),
+    new HtmlWebpackPlugin({
+      inject: true,
+      template: './src/index.html',
+      filename: 'index.html'
+    }),
+    new HtmlWebpackPlugin({
+      inject: true,
+      template: './src/index.html',
+      filename: 'index.html'
+    }),
+    new HtmlWebpackPlugin({
+      inject: true,
+      template: './src/index.html',
+      filename: 'index.html'
+    }),
   ]
 
 };
