@@ -56,38 +56,51 @@ module.exports = {
       inject: 'body',
       template: './src/index.html',
       filename: 'index.html'
+      minify: {
+        removeComments: true,
+        collapseWhitespace: true
+      }
     }),
     new HtmlWebpackPlugin({
       template: './src/contact.html',
-      filename: 'contact.html'
+      filename: 'contact.html',
+      minify: {
+        removeComments: true,
+        collapseWhitespace: true
+      }
     }),
     new HtmlWebpackPlugin({
-      template: './src/contact.html',
-      filename: 'contact.html'
+      template: './src/amenities.html',
+      filename: 'amenities.html',
+      minify: {
+        removeComments: true,
+        collapseWhitespace: true
+      }
     }),
     new HtmlWebpackPlugin({
-      template: './src/contact.html',
-      filename: 'contact.html'
+      template: './src/gallery.html',
+      filename: 'gallery.html',
+      minify: {
+        removeComments: true,
+        collapseWhitespace: true
+      }
     }),
     new HtmlWebpackPlugin({
-      template: './src/contact.html',
-      filename: 'contact.html'
+      template: './src/join.html',
+      filename: 'join.html',
+      minify: {
+        removeComments: true,
+        collapseWhitespace: true
+      }
     }),
     new HtmlWebpackPlugin({
-      template: './src/contact.html',
-      filename: 'contact.html'
+      template: './src/price.html',
+      filename: 'price.html',
+      minify: {
+        removeComments: true,
+        collapseWhitespace: true
+      }
     }),
-    new HtmlWebpackPlugin({
-      template: './src/contact.html',
-      filename: 'contact.html'
-    }),
-    new HtmlWebpackPlugin({
-      template: './src/contact.html',
-      filename: 'contact.html'
-    }),
-
     new UglifyJsPlugin(),
-
   ]
-
 };

@@ -97,6 +97,48 @@ body {
 }
 
 
+
+
+
+
+
+// Price Page
+
+.grid-container-price {
+  display: grid;
+  grid-template-columns: 99% 99% 99%;
+  grid-template-rows: repeat(1, 1fr);
+  width: 33%;
+  grid-column-gap: 3%;
+  .startup {
+    width: 100%;
+    img {
+      width: 100%;
+    }
+  }
+  .business {
+    width: 100%;
+    img {
+      width: 100%;
+    }
+  }
+  .coorporation {
+    width: 100%;
+    img {
+      width: 100%;
+    }
+  }
+
+}
+
+
+
+
+
+
+
+
+
 @media screen and (max-width: 570px) {
   .grid-container {
     .title {
