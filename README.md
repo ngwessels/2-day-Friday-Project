@@ -69,7 +69,31 @@ _When looking at these website they all have the same goal. Helping customers ge
 <img src="src/imgs/desktop-wireframe.png" alt="" width="500" height="430">
 </p>
 
+## Programed Images
 
+### Desktop
+
+#### Home Page
+
+<p align="center">
+<img src="src/imgs/index.png" alt="" width="500" height="266"></p>
+
+#### Price Page
+
+<p align="center">
+<img src="src/imgs/price.png" alt="" width="500" height="266"></p>
+
+### Tablet
+
+#### Home Page
+<p align="center">
+<img src="src/imgs/tabletMain.png" alt="" width="500" height="836">
+</p>
+
+#### Price Page
+<p align="center">
+<img src="src/imgs/tabletPrice.png" alt="" width="500" height="836">
+</p>
 ## Setup/Installation Requirements
 
 
