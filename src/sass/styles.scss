@@ -57,6 +57,7 @@ body {
     grid-column-start: 2;
     grid-column-end: 6;
     flex-direction: column;
+    border-bottom: 1px solid lightgrey;
     .main-title {
       display: flex;
       justify-content: center;
@@ -93,6 +94,59 @@ body {
       border: 4px solid black;
     }
   }
+}
 
 
+@media screen and (max-width: 570px) {
+  .grid-container {
+    .title {
+      .main-title {
+        font-size: 15px;
+      }
+      .slogan {
+        font-size: 12px;
+      }
+    }
+    .body {
+      .body-text {
+        font-size: 12px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 830px) and (min-width: 571px) {
+  .grid-container {
+    .title {
+      .main-title {
+        font-size: 22px;
+      }
+      .slogan {
+        font-size: 16px;
+      }
+    }
+    .body {
+      .body-text {
+        font-size: 14px;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 831px) {
+  .grid-container {
+    .title {
+      .main-title {
+        font-size: 24px;
+      }
+      .slogan {
+        font-size: 18px;
+      }
+    }
+    .body {
+      .body-text {
+        font-size: 16px;
+      }
+    }
+  }
 }
