@@ -36,21 +36,21 @@ _When looking at these website they all have the same goal. Helping customers ge
   * _The background color needs to be a cool color. Some shade of white, grey, or light blue._
   * _The font style should not be in calligraphy, body font needs to be in some font like Times New Roman._
 
-  ## Sketch Images
-  #### Desktop Sketch
-  <p align="center">
-  <img src="src/imgs/desktop.jpg" alt="" width="500" height="667">
-  </p>
+## Sketch Images
+#### Desktop Sketch
+<p align="center">
+<img src="src/imgs/desktop.jpg" alt="" width="500" height="667">
+</p>
 
-  #### Tablet Sketch
-  <p align="center">
-  <img src="src/imgs/tablet.jpg" alt="" width="500" height="667">
-  </p>
+#### Tablet Sketch
+<p align="center">
+<img src="src/imgs/tablet.jpg" alt="" width="500" height="667">
+</p>
 
-  #### Phone Sketch
-  <p align="center">
-  <img src="src/imgs/phone.jpg" alt="" width="500" height="667">
-  </p>
+#### Phone Sketch
+<p align="center">
+<img src="src/imgs/phone.jpg" alt="" width="500" height="667">
+</p>
 
 ## Wireframe Images
 
@@ -96,11 +96,16 @@ _When looking at these website they all have the same goal. Helping customers ge
 </p>
 ## Setup/Installation Requirements
 
-
+_To get this project there are a couple things you must do first before it is operational:_
+  1. _Open the terminal on your device and type in the command 'cd desktop'_
+  2. _After typing in that command we need to get a clone of the project from github, so now type in the command 'git clone https://github.com/ngwessels/2-day-Friday-Project'_
+  3. _Once that is finished downloading we need to install all dependencies, to do that type in the command 'npm install', this may take time depending on size._
+  4. _Once that is finished we need to type 'npm run start'. This will initialize the 'dist' folder and run the website on your browser_
+  5. _You should be good to go_
 
 ## Known Bugs
 
-_List of Known bugs_
+_There are a few known bugs at this time. All of them have to do with responsiveness_
 
 ## Support and Contact Details
 
@@ -108,7 +113,7 @@ _For any questions please contact Nate Wessels at nwessels16@gmail.com_
 
 ## Technologies Used
 
-_iMac, sketch software on iMac_
+_iMac, sketch software on iMac, atom software_
 
 ### License
 
